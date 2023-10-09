@@ -1,5 +1,3 @@
-// FILEPATH: app.js
-
 ## Weather App Project
 
 This project is a weather app created with JavaScript, HTML, and CSS. The app's main functionality is to allow users to search for a location and retrieve the current weather conditions, including temperature and humidity. To achieve this, we will follow a series of steps:
